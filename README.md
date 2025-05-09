@@ -1,7 +1,7 @@
-# Gudrs pārvietošanāš palīgs (Moto vai Autobuss)
+# Gudrs pārvietošanāš palīgs (Motocikls vai Autobuss)
 
 ## Projekta uzdevums
-Projekts analizē laikaapstākļu prognozi, palīdz izvēlēties piemērotāku transportu un pārvietošānas maršrutu.
+Projekts analizē laikaapstākļu prognozi, palīdz izvēlēties piemērotāku transportu un pārvietošānas maršruts. 
 
-## Izmantotāš Python bibliotēkas
+## Izmantotās Python bibliotēkas
 "requests" - lai iegūtu laikapstākļu datus
